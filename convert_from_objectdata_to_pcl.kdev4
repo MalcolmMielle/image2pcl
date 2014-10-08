@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=convert_from_objectdata_to_pcl
